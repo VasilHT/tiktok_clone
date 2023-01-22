@@ -17,7 +17,7 @@ const Discover = () => {
   return (
     <div
       className="xl:border-b-2 xl:border-gray-200
-  pd-6"
+  pb-6"
     >
       <p
         className="text-gray-500 font-semibold m-3
